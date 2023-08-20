@@ -4,6 +4,12 @@
 
 **Tuchi** (**José Ramon Tuchi Bumble Bee**) is a bumble bee [betta fish](https://en.wikipedia.org/wiki/Siamese_fighting_fish).
 
+  - [Personality](#personality)
+  - [Tank Parameters](#tank-parameters)
+  - [Cleaning the tank](#cleaning-the-tank)
+  - [Signs of stress](#signs-of-stress)
+  - [Page Url](#page-url)
+
 Tuchi is about 3 months old now and might live for another 1-2 years.
 
 ## Personality
