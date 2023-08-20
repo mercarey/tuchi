@@ -1,3 +1,5 @@
+![](tuchibee.png)
+
 # Tuchi - The Fish Tank of José Ramon
 
 **Tuchi** (**José Ramon Tuchi Bumble Bee**) is a bumble bee [betta fish](https://en.wikipedia.org/wiki/Siamese_fighting_fish).
