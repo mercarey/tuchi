@@ -2,15 +2,13 @@
 
 # Tuchi - The Fish Tank of José Ramon
 
-**Tuchi** (**José Ramon Tuchi Bumble Bee**) is a bumble bee [betta fish](https://en.wikipedia.org/wiki/Siamese_fighting_fish).
+**Tuchi** (**José Ramon Tuchi Bumble Bee**) is a male bumble bee [betta fish](https://en.wikipedia.org/wiki/Siamese_fighting_fish). He lives in Lake Worth, Florida. Tuchi is about 3 months old now (Aug 2023) and might live for another 1-2 years.
 
   - [Personality](#personality)
   - [Tank Parameters](#tank-parameters)
   - [Cleaning the tank](#cleaning-the-tank)
   - [Signs of stress](#signs-of-stress)
   - [Page Url](#page-url)
-
-Tuchi is about 3 months old now and might live for another 1-2 years.
 
 ## Personality
 
