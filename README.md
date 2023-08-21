@@ -60,9 +60,9 @@ The main reason the water is changed gradually is to allow the temperature to le
 
 ## Signs of stress
 
-* Hiding
-* Constantly swimming with his face pressed against the tank ("glass surfing")
-* Frequently snapping his body at the jewels, plants, or other things in the tank ("flashing")
+* Frequent hiding
+* Frequent swimming with his face pressed against the tank ("glass surfing")
+* Frequent snapping of his body at the decorations, plants, or other things or surfaces in the tank ("flashing")
 * Poor appetite
 * Trouble staying flat (right-side up)
 
